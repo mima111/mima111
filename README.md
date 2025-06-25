@@ -10,7 +10,7 @@ I USUALLY USE...✌✌
 
 YOU CAN CONTACT ME USE...🌎🌎
 
-<img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"> <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"> <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram_ynew_jin&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 
 
