@@ -6,5 +6,6 @@ IM STUDYING...✒️✒️
 
 I USUALLY USE...✌✌
 
-<img src="https://img.shields.io/badge/applepay-000000?style=for-the-badge&logo=applepay&logoColor=white"> <img src="https://img.shields.io/badge/applemusic-FA243C?style=for-the-badge&logo=apple-music&logoColor=white"> <img src="https://img.shields.io/badge/netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
+<img src="https://img.shields.io/badge/applepay-000000?style=for-the-badge&logo=applepay&logoColor=white"> <img src="https://img.shields.io/badge/applemusic-FA243C?style=for-the-badge&logo=apple-music&logoColor=white"> <img src="https://img.shields.io/badge/netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"> <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white">
+
 
